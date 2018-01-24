@@ -1,7 +1,8 @@
 ;; 初始化外观
 
 ;; 80 字符换行
-(setq-default default-fill-column 80)
+;;(setq-default default-fill-column 80)
+;(setq toggle-truncate-lines t)
 ;; 设置光标形状
 (setq-default cursor-type 'bar)
 ;; 全局行号,列号
