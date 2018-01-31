@@ -14,6 +14,8 @@
   "lisp"
   user-emacs-directory))
 
+;; 保存会话(退出时的状态)
+(desktop-save-mode "~/.emacs.d")
 
 
 ;; 设置初始查找目录
